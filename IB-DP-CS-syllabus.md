@@ -36,7 +36,7 @@ Students will work with professional software and languages in design and tech c
 
 When turning in work, use font in a responsible readable manner; around sizes 10-12, good contrast in colors, respectable serif or san serif fonts like Avenir, Helvetica, Georgia, Palatino, Times, etc. Any work in Comic Sans, Papyrus, Curlz, or other overly decorative fonts will not be scored. A document should not have more than 2 or 3 fonts. If variety is needed, make use weight, sizes, and styles within the same font instead of hopping from font to font.
 
-![alt text](https://shawnwegs.github.io/Starting-Class/exy.png "No") I understand
+![alt text](https://shawnwegs.github.io/Starting-Class/checky.png "Yes") I understand
 
 ### Major Reports and Projects:
 Courses will have documentation accompanying long term project work. These projects and documents are due at the end of each semester, and students will work on different parts of them throughout the course.
