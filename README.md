@@ -3,7 +3,7 @@ https://github.com/moussmoh000/People-of-interest-/blob/master/README.md
 
 https://github.com/moussmoh000/Cerium-Oxide/blob/master/IB-MYP-US-syllabus.md
 
-https://github.com/moussmoh000/Cerium-Oxide/blob/master/Course%20Description
+https://github.com/moussmoh000/Cerium-Oxide/blob/master/Course%20Description.md
 
 https://github.com/moussmoh000/How-would-you-define-art-
 
