@@ -8,7 +8,7 @@ Our Digital Art & Animation course is designed to be an introduction into the fu
 
 Digital Art is an intermediate-level course, not introductory level. Prior to taking Digital Art, it is recommended for students to complete Digital Communications. Digital Art & Animation satisfies a students Fine Art Requirement for graduation in the state of Texas.
 
-![alt text](../images/digitalart.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
+![alt text](digitalart.jpg "CC 2.0: Generic | Cropped & Levels Adjustment  | Anthony Catalano")
  
 #### Course Summary
 
@@ -64,7 +64,7 @@ Majority of content will be delivered through video instruction. This allows you
  
 As you are able to work at your own pace, this can sometimes cause a general slowdown for some students. Despite being able to watch videos whenever you need, it is important that you keep up with the pace of the course to not end up with a ton of backwork to complete at the midterm or at term's end.
 
-![alt text](../images/cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
+![alt text](cheating.jpg "CC 2.0: Generic | Cropped, Grey Scale, Selective Blur  |  Craig Sunter")
 
 #### Cheating & Academic Dishonesty
 
