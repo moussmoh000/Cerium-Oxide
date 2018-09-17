@@ -1,6 +1,6 @@
-Victor Vasarly, Bridget Riley, Casey Reas, Josef Albers, Andy Warhol and their Op Art
+**Victor Vasarly, Bridget Riley, Casey Reas, Josef Albers, and Andy Warhol Life's and their Op Art.
 
-  *Victor Vasarely is an internationally known and praised artist; widely accepted as a "grandfather" and leader of the op art movement.
+  Victor Vasarely is an internationally known and praised artist; widely accepted as a "grandfather" and leader of the op art movement.
 
   He was the leading figures in the development of geometrical abstraction, Hungarian-born artist Victor Vasarely was 
 known as the "father of Op Art." That short-lived movement, born in the 1960s, was a direct result of the visual 
@@ -15,13 +15,12 @@ experimentation Vasarely had been engaged in since the 1930s.
  in Paris, France.
 
 
-   *Bridget Riley is best known for her black and white works within the Op Art movement. However, she produces works in 
- color 
- as well. Her work is iconic of the Op Art movement, and she is considered one of Op Art's most important and influential 
- artist.
+   **Bridget Riley is best known for her black and white works within the Op Art movement. However, she produces works in 
+color as well. Her work is iconic of the Op Art movement, and she is considered one of Op Art's most important and 
+influential artist.
   
-  In the late 60's, Riley and fellow artist and friend Peter Sedgley founded SPACE (Space Provision Artistic Cultural and     
- Educational), a large affordable and open studio space for artists to work.
+  In the late 60's, Riley and fellow artist and friend Peter Sedgley founded SPACE (Space Provision Artistic Cultural and   
+Educational), a large affordable and open studio space for artists to work.
 
 
   Bridget Riley is a British artist known for her singular Op Art paintings. Melding clean lines, color arrangements, and 
@@ -33,11 +32,10 @@ leading her to the practice for which she is now known. Today, Riley is often gr
 Art such as Victor Vasarely and Richard Anuszkiewicz.
 
 
-  *Casey Edwin Barker Reas, also known as C. E. B. Reas or Casey Reas, is an American artist whose conceptual, procedural 
+  **Casey Edwin Barker Reas, also known as C. E. B. Reas or Casey Reas, is an American artist whose conceptual, procedural 
 and minimal artworks explore ideas through the contemporary lens of software. Reas is best known for having created, with 
 Ben Fry, the Processing programming language. An artist whose conceptual, procedural and minimal art works explore ideas 
-through 
-software. Reas (with Ben Fry) is best known for having created the Processing programming language.
+through software. Reas (with Ben Fry) is best known for having created the Processing programming language.
 
   Reas's software generated images are created by programmed instructions. The instructions are expressed in different media 
 including natural language, machine code, and computer simulations, resulting in both dynamic and static images. Each 
@@ -51,7 +49,7 @@ Institute, bitforms gallery in New York and Seoul, IAMAS and ICC in Japan, the M
 Hong Kong, and the Sonar Festival in Barcelona.
 
 
-  * Josef Albers worked as an Art Teacher in Germany at several different schools for about half a century. He served as 
+  **Josef Albers worked as an Art Teacher in Germany at several different schools for about half a century. He served as 
 faculty at the world renown Bauhaus, and then to the world renown Black Mountain College (and then later, Yale) after 
 immigrating to the US after the Nazi Party closed Bauhaus during World War II.
 
@@ -70,7 +68,7 @@ Academy in Munich, where he studied drawing with Franz Stuck and attended Max Do
 Josef Albers famous quote "Color is fooling us all the time. All the time, like women do, you see, life is interesting".
 
 
-  * Andy Warhol is often seen as the most iconic artist when it comes to genre of Pop Art. Even if you don't know his name, 
+  **Andy Warhol is often seen as the most iconic artist when it comes to genre of Pop Art. Even if you don't know his name, 
 you've probably seen his work, or even one of his self portraits. Many of his works are widely known.
 
   Andy Warhol was a leading figure in the Pop Art movement. Like his contemporaries Roy Lichtenstein and Robert Rauschenberg, Warhol responded to mass-media culture of the 1960s. His silkscreens of cultural and consumer icons—including Marilyn Monroe, Elizabeth Taylor, Campbell’s Soup Cans, and Brillo Boxes—would make him one of the most famous artists of his generation.
