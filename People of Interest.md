@@ -80,6 +80,14 @@ the age of 58, on February 22, 1987 in New York, NY. After his death, the artist
 and in 1994, a museum dedicated to the artist and his oeuvre opened in his native Pittsburgh.
 
 
+**Carlos Cruz-Diez  is a Venezuelan artist considered to be one of the greatest artistic innovators of the 20th and 21st centuries. 
+
+  Carlos Cruz-Diez is an artist and member of the Op Art movement whose work focuses on the kinetic energy of color. He was born on August 17, 1923, in Caracas, Venezuela, traveling to Paris where he became interested in the colors of the European countryside as they differed from his home country. Upon his return to Caracas, he opened a studio and began to investigate kinetic and optical forms of art— the former especially, which had formed into a movement in Caracas, thanks to artists such as Jesús Rafael Soto and Alejandro Otero. Cruz-Diez's work is based on the moiré effect, in which lines of contrasting color give the impression of movement, best exemplified in his Physiochrome series.  
+
+ **Marina Apollonio Born in Trieste on 12 November 1940, Apollonio and her family moved to Venice when she was eight. She later attended the Accademia di Belle Arti di Venezia. In 1963 Apollonio produced her first work, Metal reliefs with alternate color sequences. She shares with other Op-Artists the interest in a depersonalized art, as opposite to Abstract Expressionism. She uses industrial material in her process, creating dynamic and fluctuating environments in the user's perception. 
+ 
+  
+
 All Information came from this website: http://www.artnet.com/. Just search up the artists name and you will recieve all the information needed about him.
 
 
