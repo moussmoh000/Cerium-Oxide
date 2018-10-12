@@ -1,6 +1,6 @@
 **Victor Vasarly, Bridget Riley, Casey Reas, Josef Albers, and Andy Warhol Life's and their Op Art.
 
-  Victor Vasarely is an internationally known and praised artist; widely accepted as a "grandfather" and leader of the op art movement.
+  Victor Vasarely is born on April 9, 1906, Pécs, Hungary. He is an internationally known and praised artist; widely accepted as a "grandfather" and leader of the op art movement.
 
   He was the leading figures in the development of geometrical abstraction, Hungarian-born artist Victor Vasarely was 
 known as the "father of Op Art." That short-lived movement, born in the 1960s, was a direct result of the visual 
@@ -13,10 +13,11 @@ experimentation Vasarely had been engaged in since the 1930s.
  in Surrealism and Abstract Expressionism during the 1940s, before arriving at his hallmark checkerboard works. Op Art went 
  on to have a number of practitioners, including Bridget Riley and Yaacov Agam. The artist died at age 90 on March 15, 1997 
  in Paris, France.
+ 
+ This is one of Victor Vasarly's op art: http://www.op-art.co.uk/wp-content/uploads/2011/11/vega-nor.jpg 
 
 
-   **Bridget Riley is best known for her black and white works within the Op Art movement. However, she produces works in 
-color as well. Her work is iconic of the Op Art movement, and she is considered one of Op Art's most important and 
+   **Bridget Riley is born on April 24, 1931 (age 87 years), West Norwood. She currently lives and works in London, Cornwall and the Vaucluse in France. She is best known for her black and white works within the Op Art movement. However, she produces works in color as well. Her work is iconic of the Op Art movement, and she is considered one of Op Art's most important and 
 influential artist.
   
   In the late 60's, Riley and fellow artist and friend Peter Sedgley founded SPACE (Space Provision Artistic Cultural and   
@@ -29,7 +30,9 @@ gradients and variations in tone stems from her admiration for the Pointillist G
 London, United Kingdom, she studied at Goldsmiths College from 1949 to 1952 and the Royal College of Art from 1952 to 1955. 
 In the following years, the artist began experimenting with the color effects developed by Seurat in the 19th century, 
 leading her to the practice for which she is now known. Today, Riley is often grouped along with other practitioners of Op 
-Art such as Victor Vasarely and Richard Anuszkiewicz.
+Art such as Victor Vasarely and Richard Anuszkiewicz. 
+
+This is one of Bridget Riley's op art: https://en.wikipedia.org/wiki/Bridget_Riley#/media/File:Riley,_Movement_in_Squares.jpg
 
 
   **Casey Edwin Barker Reas, also known as C. E. B. Reas or Casey Reas, is an American artist whose conceptual, procedural 
@@ -80,11 +83,13 @@ the age of 58, on February 22, 1987 in New York, NY. After his death, the artist
 and in 1994, a museum dedicated to the artist and his oeuvre opened in his native Pittsburgh.
 
 
-**Carlos Cruz-Diez  is a Venezuelan artist considered to be one of the greatest artistic innovators of the 20th and 21st centuries. 
+**Carlos Cruz-Diez is born on August 17, 1923 (age 95 years), Caracas, Venezuela. He is a Venezuelan artist considered to be one of the greatest artistic innovators of the 20th and 21st centuries. 
 
   Carlos Cruz-Diez is an artist and member of the Op Art movement whose work focuses on the kinetic energy of color. He was born on August 17, 1923, in Caracas, Venezuela, traveling to Paris where he became interested in the colors of the European countryside as they differed from his home country. Upon his return to Caracas, he opened a studio and began to investigate kinetic and optical forms of art— the former especially, which had formed into a movement in Caracas, thanks to artists such as Jesús Rafael Soto and Alejandro Otero. Cruz-Diez's work is based on the moiré effect, in which lines of contrasting color give the impression of movement, best exemplified in his Physiochrome series.  
 
  **Marina Apollonio Born in Trieste on 12 November 1940, Apollonio and her family moved to Venice when she was eight. She later attended the Accademia di Belle Arti di Venezia. In 1963 Apollonio produced her first work, Metal reliefs with alternate color sequences. She shares with other Op-Artists the interest in a depersonalized art, as opposite to Abstract Expressionism. She uses industrial material in her process, creating dynamic and fluctuating environments in the user's perception. 
+ 
+ This is one of Maria Apollonio op art: https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/12467-contemporary-art-i/lotID/230/lot/2216411-marina-apollonio.html
  
   
 
