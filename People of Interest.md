@@ -91,7 +91,18 @@ and in 1994, a museum dedicated to the artist and his oeuvre opened in his nativ
  
  This is one of Maria Apollonio op art: https://www.dorotheum.com/en/auctions/current-auctions/kataloge/list-lots-detail/auktion/12467-contemporary-art-i/lotID/230/lot/2216411-marina-apollonio.html
  
+ **Oleg Dou was born into an artistic family in Moscow. His mother was a painter and his father a dress designer. Between visiting exhibitions and spending time in his mother's studio, he had a significant amount of exposure to art and artists. Despite his current fame, when younger he felt he was less talented than his younger brother.
+ 
+ Prior to the 1980s, artists in Russia were employed by the government. However, Gorbachev's policies reduced restrictions and gave unprecedented freedom of speech. This also allowed artists to set up galleries, work for patrons, and sell art to the public instead of only for the government. This would affect the sorts of art and artists Oleg would have exposure to.
+ 
+ Oleg Dou transforms photographic images of human faces, manipulating them with computer software to produce stylized features and airbrushed skin. When Dou’s parents, a painter and dress designer, gave him a copy of Photoshop at age 13, he began to alter images of his school friends’ and teachers’ faces. Initially inspired by a 19th-century tradition of capturing child funeral portraits, for which the body would be dressed in costume and prepared in intricate detail, Dou is interested in producing images that are both alluring and unsettling. “I am looking for something bordering between the beautiful and the repulsive, living and dead,” he has said. “I want to attain the feeling of presence one can get when walking by a plastic manikin…"
+ 
   
+**Kirsty mitchell Born: June 28, 1974 (age 44 years), Glasgow, United Kingdom, is a fine art photographer. She attended the London College of Fashion and Ravensbourne College of Art. She worked as a senior designer for fashion label Karen Millen before revisiting her love of photography, combined with her experience from the fashion world, to help her work through grief.
+ She has recently gained a significant amount of attention through social media for her work on her Wonderland series from 2014, which was followed up with a Kickstarter campaign in 2015 to allow her to self-publish the series in book format. Watch the video for her Kickstarter project
+
+  
+
 
 All Information came from this website: http://www.artnet.com/. Just search up the artists name and you will recieve all the information needed about him.
 
