@@ -101,7 +101,9 @@ and in 1994, a museum dedicated to the artist and his oeuvre opened in his nativ
 **Kirsty mitchell Born: June 28, 1974 (age 44 years), Glasgow, United Kingdom, is a fine art photographer. She attended the London College of Fashion and Ravensbourne College of Art. She worked as a senior designer for fashion label Karen Millen before revisiting her love of photography, combined with her experience from the fashion world, to help her work through grief.
  She has recently gained a significant amount of attention through social media for her work on her Wonderland series from 2014, which was followed up with a Kickstarter campaign in 2015 to allow her to self-publish the series in book format. Watch the video for her Kickstarter project
  
- **Shamsia** In her graffiti, Shamsia often paints women in Burqas/women in symbolic shapes, and fishes, symbols of the atmosphere flowing around her and her own life experiences. She is he first female graffiti Artist and first 3D street art Artist of Afganisran and uses her art to help bring positive changes to people and more specifically to wash away the depressing memories of long-time war having taken place in her country.
+ **Shamsia** Shamsia Hassani is an Afghan graffiti artist, a fine arts lecturer, and associate professor of sculpture at the Kabul University. She has popularized "street art" in the streets of Kabul. Born: 1988 (age 31 years), Iran
+Notable work: Graffiti art in the street walls of Kabul
+ In her graffiti, Shamsia often paints women in Burqas/women in symbolic shapes, and fishes, symbols of the atmosphere flowing around her and her own life experiences. She is he first female graffiti Artist and first 3D street art Artist of Afganisran and uses her art to help bring positive changes to people and more specifically to wash away the depressing memories of long-time war having taken place in her country.
 
   
 
